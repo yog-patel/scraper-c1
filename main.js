@@ -13,13 +13,6 @@ const {
 async function main() {
 
     const urls = [
-   "https://www.mvlempyr.com/novel/rebirth-of-the-film-emperors-beloved-wife",
-    "https://www.mvlempyr.com/novel/rebirth-of-the-nameless-immortal-god",
-    "https://www.mvlempyr.com/novel/rebirth-of-the-supreme-celestial-being",
-    "https://www.mvlempyr.com/novel/rebirth-of-the-thief-who-roamed-the-world",
-    "https://www.mvlempyr.com/novel/rebirth-of-the-tyrants-pet-regent-prince-is-too-fierce",
-    "https://www.mvlempyr.com/novel/rebirth-of-the-villainess-young-master-lus-wicked-wife",
-    "https://www.mvlempyr.com/novel/rebirth-of-the-villainous-crown-prince",
     "https://www.mvlempyr.com/novel/rebirth-on-the-doors-to-the-civil-affairs-bureau",
     "https://www.mvlempyr.com/novel/rebirth-slice-of-life-cultivation",
     "https://www.mvlempyr.com/novel/rebirth-stockpiling-the-little-girl-sweeps-through-the-apocalypse",
@@ -73,7 +66,20 @@ async function main() {
     "https://www.mvlempyr.com/novel/reincarnated-as-a-lion-in-another-world",
     "https://www.mvlempyr.com/novel/reincarnated-as-a-plant-life",
     "https://www.mvlempyr.com/novel/reincarnated-as-a-second-generation-villain",
-
+    "https://www.mvlempyr.com/novel/reincarnated-as-a-son-of-the-sword-saint-and-the-sage",
+    "https://www.mvlempyr.com/novel/reincarnated-as-an-elf-prince",
+    "https://www.mvlempyr.com/novel/reincarnated-as-an-energy-with-a-system",
+    "https://www.mvlempyr.com/novel/reincarnated-as-an-imperial-prince",
+    "https://www.mvlempyr.com/novel/reincarnated-as-incubus-i-didnt-mean-to-seduce-you",
+    "https://www.mvlempyr.com/novel/reincarnated-as-nikolai-ii",
+    "https://www.mvlempyr.com/novel/reincarnated-as-the-demon-kings-son",
+    "https://www.mvlempyr.com/novel/reincarnated-as-the-strongest-ancestor-with-a-system",
+    "https://www.mvlempyr.com/novel/reincarnated-as-the-third-son-of-the-duke",
+    "https://www.mvlempyr.com/novel/reincarnated-as-the-villainesss-attendant",
+    "https://www.mvlempyr.com/novel/reincarnated-as-the-villainesss-son",
+    "https://www.mvlempyr.com/novel/reincarnated-as-the-villainesss-unlucky-bodyguard",
+    "https://www.mvlempyr.com/novel/reincarnated-in-the-astral-world",
+      "https://www.mvlempyr.com/novel/reincarnated-in-the-villainous-lust-system",
       ];
 
     const browser = await launchBrowser();
